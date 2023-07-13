@@ -6,4 +6,4 @@ We have used the concept of Naive Bayes to make the model and the packages that 
 
 We have also used the os and the io files to read the emails and write on certain files in the notebook.
 
-I have also attached the csv files that have been used in the making of the model.
+I have also attached the email files ( which contain the spam and the ham files ) that has been used in the making of the model.
